@@ -6,8 +6,6 @@
 - mlab.cours@gmail.com (TP à rendre à cette adresse)
 - ledoyen.esiea@gmail.com
 
-## Règles du jeux 
-
 - Objectif du jeux :
 - Le premier joueur ayant 10 mots gagne la partie
 
@@ -32,18 +30,7 @@
 - Le cas des anagrammes :
 - On peut voler un mot en faisant un anagramme uniquement si il n'a pas déjà été fait. Bien entendu, faire un anagramme permet de tirer une nouvelle lettre.
 
-## Objectif du TP
 
-- Une première étape consiste à pouvoir jouer à plusieurs autour d'un même écran.
-- Une interface en ligne de commande est suffisante.
-- Nous attendons aussi a minima une de ces deux extensions (ou les deux pour les plus courageux :-)) :
-- Une architecture client / serveur, chaque joueur utilisant une instance d'un client pour jouer.
-- Une intelligence artificiel permettant de jouer contre l'ordinateur.
-EXO1 -Nous attendons aussi une description de votre architecture (Quel responsabilité à chaque package, ..).
-EXO2 -De plus, vous devrez illustrer trois principes SOLID ou design pattern en utilisant vos propres classes. 
-- pourquoi avez-vous utilisé ce design pattern / principe ? Qu'est-ce que cela vous a apporté ? Comment l'avez-vous appliqué ?
-- Nous attendons quelques paragraphes seulement
-- Ces deux exercices sont à livrer dans le README.md du projet.
 
 ## Technologies à utiliser 
 
@@ -96,3 +83,8 @@ $ git remote add origin <your_git_repository_url>
 $ git push -u origin master
 ```
 # lettergame
+
+
+
+
+consigne
